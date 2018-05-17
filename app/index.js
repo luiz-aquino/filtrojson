@@ -55,7 +55,7 @@ var jsonFilterApi = (($) =>
                             }
                         }
                         catch(e){
-                            console.log(erro);
+                            console.log("erro");
                         }
                     // }
                 })
